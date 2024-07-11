@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, bem vindo(a) ao meu perfil!👋
 
-<!--
-**juupage/JuuPage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Júlia Ribeiro:
 
-Here are some ideas to get you started:
+- Estou estudando...
+- Iniciando projetos em novas linguagens;
+- Utilizo esse espaço para organizar e compartilhar os projetos que desenvolvo estudando!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # VOCÊ PODE ENTRAR EM CONTATO COMIGO EM:
+  
+📧 juliaribeiromonta1206@gmail.com
+
+@_jrm12_
+
+
+![gatinha](https://media.tenor.com/eDYrIXjA6k8AAAAi/cat-dog.gif)
