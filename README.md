@@ -175,9 +175,9 @@ Meu objetivo é evoluir continuamente em **Data Analytics, Data Science e Data E
 
 ## Contato
 
-**LinkedIn:** [Júlia Ribeiro]((https://www.linkedin.com/in/juliaribeiromonta/))
+**LinkedIn:** [Júlia Ribeiro](https://www.linkedin.com/in/juliaribeiromonta/)
 
-**GitHub:** [Júlia Ribeiro]((https://github.com/juupage))
+**GitHub:** [Júlia Ribeiro](https://github.com/juupage)
 
 <div align="center">
 
