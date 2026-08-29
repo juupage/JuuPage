@@ -7,8 +7,6 @@
 </a>
 <div align="center">
 
-# Júlia Ribeiro
-
 ### Data Science Student · Data Analytics · CRM & Customer Intelligence
 
 **Ciências de Dados @ UFMS** · **CRM / Data Factory Intern @ Santander**
