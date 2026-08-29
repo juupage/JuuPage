@@ -1,9 +1,105 @@
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/juupage?v=1788025818498"
-    alt="GitAscii Widget"
-    width="100%"
-  />
+{
+  "widgets": [
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 10,
+        "y": 304
+      },
+      "size": {
+        "width": 462,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1788025413654_3"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 476,
+        "y": 304
+      },
+      "size": {
+        "width": 310,
+        "height": 160
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "html",
+          "py",
+          "cs",
+          "kotlin",
+          "git",
+          "vscode"
+        ],
+        "theme": "dark",
+        "perLine": 4,
+        "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1788025413654_5"
+    },
+    {
+      "instanceId": "widget_1788026210667",
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1788026221294",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 10,
+        "y": 98
+      },
+      "size": {
+        "width": 772,
+        "height": 192
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "labelColor": "#ff4a4a",
+        "headerColor": "#c5ff4a",
+        "statsValColor": "#9a199a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal"
+}
 <div align="center">
 
 # Júlia Ribeiro
