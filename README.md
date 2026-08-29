@@ -86,8 +86,6 @@ Dashboard desenvolvido para exploração e visualização de dados, com foco na 
 
 **Tecnologias:** `Python` `Pandas` `Data Visualization`
 
-[Ver projeto →]((https://imersao-dados-python-alura-2025-dashboard.streamlit.app/))
-
 ---
 
 ### Data Analysis with Python
@@ -95,8 +93,6 @@ Dashboard desenvolvido para exploração e visualização de dados, com foco na 
 Projeto desenvolvido para aplicar um fluxo completo de análise de dados, passando por limpeza, transformação, exploração e interpretação dos dados.
 
 **Tecnologias:** `Python` `Pandas` `NumPy` `Matplotlib`
-
-[Ver projeto →]((https://github.com/juupage/imersao-dados-python-alura))
 
 ---
 
